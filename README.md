@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Developed an interactive Power Bi dashboard for Road Accident Analysis, enabling comprehensive visualization and analysis of accident data This tool has proven instrumental in improving road safety initiatives, identifying high-risk areas, and supporting data-driven policy decision, ultimately contributing to a reduction in road accidents
+Developed an interactive Power Bi dashboard for Road Accident Analysis, enabling comprehensive visualization and analysis of accident data This tool has proven instrumental in improving road safety initiatives, identifying high-risk areas, and supporting data-driven policy decision, ultimately contributing to a reduction in road accidents.
 
 ![dbvjggg-62438fe3-22cc-433a-a97a-af8e534b0f8f](https://github.com/ishita-goyal-019/Road-Accident-Analysis/assets/145800141/d59d3bd4-257e-4354-86a5-07c7be0b660d)
 
